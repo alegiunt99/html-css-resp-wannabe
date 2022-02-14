@@ -7,4 +7,16 @@
     .container{
         width: 420px;
     }
+
+    .row{
+        width: 100%;
+    }
+
+    img{
+        height: 85px;
+    }
+
+    #lezioni h1{
+        margin-top: 0px;
+    }
 }
