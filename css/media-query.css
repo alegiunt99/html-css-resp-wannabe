@@ -10,10 +10,22 @@
 
     .row{
         width: 100%;
+        margin-top: 0px;
     }
 
     img{
         height: 85px;
+    }
+
+    #lezioni{
+        background-color: #e5f78480;
+    }
+
+    #lezioni .row>.left,
+    #lezioni .row>.right {
+        width: 95%;
+        float: none;
+        margin: 0 auto 70px auto;
     }
 
     #lezioni h1{
